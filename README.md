@@ -35,5 +35,4 @@ For the second part, I apply fpgrowth algorithms for Product Recommendation. The
 |BRD|Brand|
 
 ## Streamlit Web application
-
-![webapp]('./web_app.png')
+<p align="center"><img src="./web_app.png" /></p>
